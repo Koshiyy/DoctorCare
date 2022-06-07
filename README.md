@@ -1,2 +1,2 @@
 # Projeto desenvolvido usando HTML5, CSS3 e JavaScript 
-- Link: https://koshiyy.github.io/DoctorCare/
+- <a href="https://koshiyy.github.io/DoctorCare/" target="_blank">Link</a>
